@@ -271,7 +271,7 @@ const App = () => {
               {showDisclaimer && (
                 <div className="mt-3 text-[12px] leading-relaxed text-slate-400 font-medium animate-in fade-in duration-300">
                   <p className="mb-3">
-                    Lưu ý, kết quả từ công cụ tính BMI online chỉ mang tính tham khảo, không thể thay thế các phương pháp chẩn đoán chuyên sâu tại cơ sở y tế.
+                    Lưu ý, kết quả BMI chỉ là chỉ số tham khảo dựa trên chuẩn WHO/IDP cho người Châu Á. Không thể thay thế các phương pháp chẩn đoán chuyên sâu tại cơ sở y tế. Chỉ số không áp dụng cho phụ nữ mang thai, vận động viên chuyên nghiệp hoặc người già suy nhược cơ thể.
                   </p>
                   <div className="bg-white p-4 rounded-xl border border-slate-100 shadow-sm">
                     <p className="text-slate-500 mb-2">
