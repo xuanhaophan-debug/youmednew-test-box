@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/youmednew-test-box/static/css/main.41e84ad7.css",
-    "main.js": "/youmednew-test-box/static/js/main.c125a598.js",
+    "main.js": "/youmednew-test-box/static/js/main.15b9f303.js",
     "static/js/453.200fe501.chunk.js": "/youmednew-test-box/static/js/453.200fe501.chunk.js",
     "index.html": "/youmednew-test-box/index.html",
     "main.41e84ad7.css.map": "/youmednew-test-box/static/css/main.41e84ad7.css.map",
-    "main.c125a598.js.map": "/youmednew-test-box/static/js/main.c125a598.js.map",
+    "main.15b9f303.js.map": "/youmednew-test-box/static/js/main.15b9f303.js.map",
     "453.200fe501.chunk.js.map": "/youmednew-test-box/static/js/453.200fe501.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41e84ad7.css",
-    "static/js/main.c125a598.js"
+    "static/js/main.15b9f303.js"
   ]
 }
